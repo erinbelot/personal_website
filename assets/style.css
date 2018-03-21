@@ -1,0 +1,100 @@
+/* ruby -run -e httpd . -p 8000 */ 
+
+* {
+ margin: 20;
+ padding: 100s;
+}
+
+main {
+    font-size: 1em;
+    background-color: whitesmoke;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-family: lato;
+    color: rgb(34, 97, 139);
+    text-shadow: .25px .25px .25px #000000;
+    background: white;
+    size: 2em;
+}
+
+p {
+    font-family: merriweather;
+}
+.homepage{
+    background-image: url("img/elephant.jpg");
+    height: 100vh;
+    width: 100%;
+}
+
+.about {
+    background-color: whitesmoke;
+    height: 100vh;
+    width: auto;
+}
+
+.icon {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: right;
+    /* background-color: red; */
+    border-radius: 5px;
+    font-size: 5em;
+}
+
+.rubyIcon {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    border-radius: 5px;
+    font-size: 5em;
+}
+.rubyicon {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    border-radius: 5px;
+    font-size: 5em;
+}
+.railsicon {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: ;
+    align-items: left;
+    /* background-color: red; */
+    border-radius: 5px;
+    font-size: 5em;
+}
+
+.reacticon {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    border-radius: 5px;
+    font-size: 5em;
+}
+
+.jsicon {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    border-radius: 5px;
+    font-size: 5em;
+}
