@@ -2,6 +2,8 @@
 
 ## Erin Belot Portfolio Website
 
+https://erinbelot.netlify.com
+
 My website we through a lot of different style changes through out development. There's a home page, about, portfolio, and contact form.
 
 
